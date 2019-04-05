@@ -1,0 +1,1 @@
+include ':app', ':letterview', ':verificationcodeview', ':hoverview', ':circlerangeview', ':androidheatmap', ':bubbleview', ':statusbarfits', ':netmonitor'
